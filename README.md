@@ -22,9 +22,3 @@ Pompa, M., **Torre, D.**, Bretti, G., De Gaetano, A. (2023). [Sensitivity Analys
 Guarino, S.; Mastrostefano, E.; Bernaschi, M.; Celestini, A.; Cianfriglia, M.; **Torre, D.**; Zastrow, L.R. (2021). [Inferring Urban Social Networks from Publicly Available Data](https://doi.org/10.3390/fi13050108). *Future Internet*, 13, 108.
 
 Guarino, S.; Mastrostefano, E.; Bernaschi, M.; Celestini, A.; Cianfriglia, M.; **Torre, D.**; Zastrow, L.R. (2021). [A Model for Urban Social Networks](https://doi.org/10.1007/978-3-030-77967-2_23). In: Paszynski M., Kranzlmüller D., Krzhizhanovskaya V.V., Dongarra J.J., Sloot P.M. (eds) *Computational Science – ICCS 2021. Lecture Notes in Computer Science*, vol 12744. Springer, Cham.
-
-### Conferences
-- **Another Paper**  
-  Your Name et al.  
-  *Conference Name*, 2023  
-  [DOI] | [PDF]
