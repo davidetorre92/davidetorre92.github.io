@@ -1,13 +1,28 @@
 # **Davide** Torre
 
-Hi! I'm Davide Torre a computational physicist specialized in statistical physics and complex systems, and a PhD in AI.
-My research interest include (but are not limited) to:
-- synthetic populations;
-- agent based models;
-- complex networks generative models.
-
-
-Download my CV [here](docs/cv.pdf)!
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <div style="margin-right: 25px;">
+<img src="docs/dt.png" alt="Look at this photograph" style="width: 360px; height: 180px; object-fit: cover; border-radius: 100%;">
+  </div>
+  <div>
+    <p>Hi! I'm Davide Torre, a computational physicist specialized in statistical physics and complex systems, and a PhD in AI.</p>
+    <p>My research interests include (but are not limited to):</p>
+    <ul>
+      <li>synthetic populations;</li>
+      <li>agent based models;</li>
+      <li>complex networks generative models.</li>
+    </ul>
+    <div>
+    <a href="docs/cv.pdf" target="_blank" style="margin-right: 15px;"><i class="fas fa-file-pdf"></i> CV</a>
+    <span style="margin-right: 15px;">|</span>
+    <a href="https://github.com/davidetorre92" target="_blank" style="margin-right: 15px;"><i class="fab fa-github"></i></a>
+    <a href="https://linkedin.com/in/yourprofile" target="_blank" style="margin-right: 15px;"><i class="fab fa-linkedin"></i></a>
+    <a href="https://bsky.app/profile/yourhandle" target="_blank" style="margin-right: 15px;"><i class="fas fa-square"></i></a>
+    <a href="https://scholar.google.com/citations?user=yourid" target="_blank" style="margin-right: 15px;"><i class="fas fa-graduation-cap"></i></a>
+    <a href="https://yourusername.substack.com" target="_blank"><i class="fas fa-newspaper"></i></a>
+    </div>
+  </div>
+</div>
 
 ## Publications
 
