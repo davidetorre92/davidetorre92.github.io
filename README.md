@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <div style="margin-right: 25px;">
-<img src="docs/dt.png" alt="Look at this photograph" style="width: 360px; height: 180px; object-fit: cover; border-radius: 100%;">
+<img src="docs/dt.png" alt="Look at this photograph" style="width: 180px; height: 180px; object-fit: cover; border-radius: 100%;">
   </div>
   <div>
     <p>Hi! I'm Davide Torre, a computational physicist specialized in statistical physics and complex systems, and a PhD in AI.</p>
@@ -13,20 +13,24 @@
       <li>complex networks generative models.</li>
     </ul>
     <div>
-    <a href="docs/cv.pdf" target="_blank" style="margin-right: 15px;"><i class="fas fa-file-pdf"></i> CV</a>
+    <a href="docs/cv.pdf" target="_blank" style="margin-right: 15px;"><img src="docs/cv.svg" width="20" height="20"></a>
     <span style="margin-right: 15px;">|</span>
-    <a href="https://github.com/davidetorre92" target="_blank" style="margin-right: 15px;"><i class="fab fa-github"></i></a>
-    <a href="https://linkedin.com/in/yourprofile" target="_blank" style="margin-right: 15px;"><i class="fab fa-linkedin"></i></a>
-    <a href="https://bsky.app/profile/yourhandle" target="_blank" style="margin-right: 15px;"><i class="fas fa-square"></i></a>
-    <a href="https://scholar.google.com/citations?user=yourid" target="_blank" style="margin-right: 15px;"><i class="fas fa-graduation-cap"></i></a>
-    <a href="https://yourusername.substack.com" target="_blank"><i class="fas fa-newspaper"></i></a>
+    <a href="https://github.com/davidetorre92" target="_blank" style="margin-right: 15px;"><img src="docs/github.svg" width="20" height="20"></a>
+    <span style="margin-right: 15px;">|</span>
+    <a href="https://linkedin.com/in/davidetorre92" target="_blank" style="margin-right: 15px;"><img src="docs/linkedin.svg" width="20" height="20"></a>
+    <span style="margin-right: 15px;">|</span>
+    <a href="https://bsky.app/profile/davitorre.bsky.social" target="_blank" style="margin-right: 15px;"><img src="docs/bluesky.png" width="20" height="20"></a>
+    <span style="margin-right: 15px;">|</span>
+    <a href="https://scholar.google.com/citations?user=z6c73gUAAAAJ&hl=en&oi=sra" target="_blank" style="margin-right: 15px;"><img src="docs/googlescholar.png" width="20" height="20"></a>
+    <span style="margin-right: 15px;">|</span>
+    <a href="https://substack.com/@davidetorre" target="_blank"><img src="docs/substack.png" width="20" height="20"></a>
     </div>
   </div>
 </div>
 
-## Publications
+## Selected Pubblications
 
-**Torre, D.**, Chicco, D. (2025, July). [TaGra: an open Python package for easily generating graphs from data tables through manifold learning](https://peerj.com/articles/cs-2986/). *PeerJ Computer Science*.
+Guarino, S., Mastrostefano, E., **Torre, D.** (2025, November). [Random hyperbolic graphs with arbitrary mesoscale structures](https://doi.org/10.1103/5q8n-lnc1). *Physical Review E*, 112, 054310.
 
 Guarino, S., Mastrostefano, E., **Torre, D.** (2023, November). [The Hidden-Degree Geometric Block Model](https://link.springer.com/chapter/10.1007/978-3-031-53472-0_34). In *International Conference on Complex Networks and Their Applications* (pp. 409-419). Cham: Springer Nature Switzerland.
 
