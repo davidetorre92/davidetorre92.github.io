@@ -5,7 +5,7 @@
 <img src="docs/dt.png" alt="Look at this photograph" style="width: 180px; height: 180px; object-fit: cover; border-radius: 100%;">
   </div>
   <div>
-    <p>Hi! I'm Davide Torre, a computational physicist specialized in statistical physics and complex systems, and a PhD in AI.</p>
+    <p>Hi! I'm Davide Torre, a computational physicist with a PhD in AI, specialized in statistical physics and complex systems.</p>
     <p>My research interests include (but are not limited to):</p>
     <ul>
       <li>synthetic populations;</li>
@@ -28,7 +28,7 @@
   </div>
 </div>
 
-## Selected Pubblications
+## Selected Publications
 
 Guarino, S., Mastrostefano, E., **Torre, D.** (2025, November). [Random hyperbolic graphs with arbitrary mesoscale structures](https://doi.org/10.1103/5q8n-lnc1). *Physical Review E*, 112, 054310.
 
