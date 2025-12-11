@@ -32,6 +32,8 @@
 
 Guarino, S., Mastrostefano, E., **Torre, D.** (2025, November). [Random hyperbolic graphs with arbitrary mesoscale structures](https://doi.org/10.1103/5q8n-lnc1). *Physical Review E*, 112, 054310.
 
+**Torre, D.**, Chicco, D. (2025, July). [TaGra: an open Python package for easily generating graphs from data tables through manifold learning](https://peerj.com/articles/cs-2986/). *PeerJ Computer Science*.
+
 Guarino, S., Mastrostefano, E., **Torre, D.** (2023, November). [The Hidden-Degree Geometric Block Model](https://link.springer.com/chapter/10.1007/978-3-031-53472-0_34). In *International Conference on Complex Networks and Their Applications* (pp. 409-419). Cham: Springer Nature Switzerland.
 
 **Torre, D.**, Italiano, G. F., & Sinaimeri, B. (2023, September). [A Network Approach to Aquatic Food Web Dynamics](https://link.springer.com/chapter/10.1007/978-3-031-90714-2_1). In *International Meeting on Computational Intelligence Methods for Bioinformatics and Biostatistics* (pp. 1-15). Cham: Springer Nature Switzerland.
